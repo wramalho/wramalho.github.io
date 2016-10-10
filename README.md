@@ -7,6 +7,7 @@ Este é o repositório para meu blog[http://wramalho.github.io/][1].
 * mudar avatar e favorite avatar
 * adicionar um about
 * deletar posts antigos e adicionar os meus
-* remover botão de subscribe  
+* remover botão de subscribe
+* mudar a licença para CC  
 
 [1]:	http://wramalho.github.io/
