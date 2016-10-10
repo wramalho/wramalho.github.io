@@ -6,7 +6,7 @@ paginate: 20
 baseurl: /
 domain_name: 'http://wramalho.github.io'
 disqus: false
-disqus_shortname: 'your-disqus-shortname'
+disqus_shortname: 'wramalho.disqus.com'
 repository: wramalho/wramalho.github.io
 
 # Details for the RSS feed generator
