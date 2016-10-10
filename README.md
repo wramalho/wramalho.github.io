@@ -1,3 +1,12 @@
-This is the repo for my blog - [http://yuloh.github.io/](http://yuloh.github.io/).
+Este é o repositório para meu blog[http://wramalho.github.io/][1].
 
-It's powered by [Github Pages](https://pages.github.com/) and uses the [Cactus theme](https://github.com/nickbalestra/kactus).
+
+
+—checklist—
+* adicionar disqus para comentários
+* mudar avatar e favorite avatar
+* adicionar um about
+* deletar posts antigos e adicionar os meus
+* remover botão de subscribe  
+
+[1]:	http://wramalho.github.io/

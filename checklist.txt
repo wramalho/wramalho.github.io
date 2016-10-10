@@ -1,0 +1,8 @@
+checklist
+
+
+* adicionar disqus para comentários
+* mudar avatar e favorite avatar
+* adicionar um about
+* deletar posts antigos e adicionar os meus
+* remover botão de subscribe  
