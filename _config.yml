@@ -4,16 +4,16 @@ meta_description:
 aboutPage: true
 paginate: 20
 baseurl: /
-domain_name: 'http://mattallan.org'
+domain_name: 'http://wramalho.github.io'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
-repository: yuloh/yuloh.github.io
+repository: wramalho/wramalho.github.io
 
 # Details for the RSS feed generator
-url:            'http://mattallan.org'
-author:         'Matt Allan'
-authorTwitter:  '__yuloh'
-authorGithub: 'yuloh'
+url:            'wramalho.github.io'
+author:         'Waldo A. Ramalho'
+authorTwitter:  'waldoramalho'
+authorGithub: 'wramalho'
 
 permalink:       /:year/:title/
 
