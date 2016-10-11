@@ -5,7 +5,10 @@ title: Documentando o meu TCC {1}
 
 
 
-Decidi documentar o meu processo de trabalho para pesquisar e redigir meu TRabalho de Conclusão de Curso. A ideia surgiu por dois objetivos: (a) me obriga a organizar o trabalho e (b) me permite olhar para trás e identificar erros do meu processo de trabalho ou premissas de pesquisa e corrigí-los.
+Decidi documentar o meu processo de trabalho para pesquisar e redigir meu Trabalho de Conclusão de Curso. 
+A ideia surgiu por dois objetivos: (a) me obriga a organizar o trabalho, (b) me permite olhar para trás e identificar erros do meu processo de trabalho ou premissas de pesquisa e corrigí-los e (c) anotar rotineiramente meus insights é bastante útil para a redação da monografia ou artigo.
+Depois que comecei descobri que é um método conhecido. `inserir link`
+
 
 ## Tema e escolha de orientador
 
