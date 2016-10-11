@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Documentando o meu TCC #1
+title: Documentando o meu TCC 1
 ---
 
 
@@ -35,4 +35,3 @@ Essas são minhas primeiras tasks:
 3.2) Escrever a primeira versão e enviar para a Cristina
 3.3) Revisar o texto e enviar a segunda versão para Eduardo Jordão
 3.4) Revisar o texto e enviar uma versão resumida do projeto para Konstantinos Stylianou
-
