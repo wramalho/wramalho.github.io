@@ -45,7 +45,7 @@ Pensei com o meu Orientador as minhas primeiras tarefas preliminares (além da r
  3. Redigir o projeto de TCC
 	> Identificar e estudar os elementos de um bom projeto de pesquisa (como tema, perguntas de pesquisa, metodologia etc.)
 	> Escrever a primeira versão e enviar para a Coordenação de Graduação
-	> Revisar o texto e enviar a segunda versão para o Orientador	
+	> Revisar o texto e enviar a segunda versão para o Orientador  
 	> Revisar o texto e enviar uma versão resumida do projeto para o Co-orientador
 
 [1]:	https://www.ucl.ac.uk/psychoanalysis/courses/phd/current_students/research-log
